@@ -1,0 +1,658 @@
+hotel_name;review_score;id
+Yogyakarta Marriott Hotel;9.1;85123A
+Novotel Suites Yogyakarta Malioboro;8.5;71053
+Melia Purosani Yogyakarta;8.7;84406B
+Sheraton Mustika Yogyakarta Resort and Spa;8.3;84029G
+Amaris Hotel Malioboro - Jogja;7.8;84029E
+D'Senopati Malioboro Grand Hotel;8.0;22752
+Ibis Malioboro;8.0;21730
+Artotel Yogyakarta;8.5;22633
+eL Hotel Royale Yogyakarta Malioboro;8.5;22632
+Swiss-Belboutique Yogyakarta;9.0;84879
+Horison Ultima Riss Malioboro Yogyakarta;8.3;22745
+Hyatt Regency Yogyakarta;9.0;22748
+Yellow Star Ambarukmo Hotel;8.0;22749
+Grand Ambarrukmo Yogyakarta;9.2;22310
+Greenhost Boutique Hotel Prawirotaman;8.9;84969
+Hotel Dafam Fortuna Malioboro;8.4;22623
+The Phoenix Hotel Yogyakarta - MGallery Collection;8.7;22622
+PORTA by The Ambarrukmo;8.9;21754
+ibis Styles Yogyakarta;8.0;21755
+GAIA Cosmo Hotel;8.8;21777
+Hotel Mawar Asri;7.5;48187
+Novotel Yogyakarta;8.1;22960
+The Jayakarta Yogyakarta Hotel & Spa;7.7;22913
+Yellow Star Gejayan Hotel;8.0;22912
+Grhatama Guest House;8.5;22914
+Abhayagiri - SWH Resort;8.8;21756
+THE 1O1 Yogyakarta Tugu;8.5;22728
+The Jayakarta Yogyakarta Hotel & Spa;7.7;22727
+Jambuluwuk Maliboro Hotel Yogyakarta;8.1;22726
+MMUGM Hotel;8.1;21724
+D'Kaliurang Resort & Convention Yogyakarta;8.2;21883
+Adhisthana Hotel Yogyakarta;8.7;10002
+Royal Ambarrukmo Yogyakarta;9.1;21791
+Hotel Citradream Tugu Yogyakarta;7.7;21035
+Merapi Merbabu Hotels & Resorts;7.4;22326
+YATS Colony;8.5;22629
+Grand Mercure Yogyakarta Adi Sucipto;8.3;22659
+Grage Ramayana Hotel;7.5;22631
+GRAND ASTON Hotel & Convention Center Yogyakarta;9.0;22661
+Sahid Raya Hotel & Convention Yogyakarta;6.8;21731
+Rivisha Hotel;8.5;22900
+KJ Hotel Yogyakarta;8.4;21913
+POP! Hotel Timoho Yogyakarta;7.9;22540
+The Alana Yogyakarta Hotel and Convention Center;8.7;22544
+OYO 1338 Hotel Sartika;6.0;22492
+Sonosewu Guesthouse;8.2;POST
+Grand Zuri Malioboro;8.1;22086
+Pesonna Hotel Tugu Yogyakarta;8.6;22632
+Satoria Hotel Yogyakarta;8.7;22633
+Horaios Malioboro Hotel;7.1;85123A
+PULANG ke UTTARA;8.8;71053
+Grand Inna Malioboro;8.1;84406B
+Cordela Kartika Dewi Yogyakarta;8.3;20679
+Roemah Noni Macanan;8.9;37370
+Crystal Lotus Hotel Yogyakarta;7.5;21871
+Tjokro Style Yogyakarta;8.2;21071
+Innside by Melia Yogyakarta;8.3;21068
+Grand Keisha Yogyakarta;8.6;82483
+Losmen Fadel;7.6;82486
+Sunrise Hotel Jogja;6.8;82482
+Pesonna Hotel Malioboro Yogyakarta;8.3;82494L
+ibis Yogyakarta Adi Sucipto;8.4;84029G
+Grand Rohan Jogja;8.7;84029E
+Atrium Premiere Hotel Yogyakarta Ambarukmo;7.7;22752
+Amaris Hotel Sagan - Jogja;7.6;21730
+Griya Wijilan Syariah;8.8;21258
+Prime Plaza Hotel Jogjakarta;8.6;85123A
+Aveon Hotel Yogyakarta;7.9;71053
+OYO 890 Dewi Fortuna Residence;8.2;84406B
+Aveta Hotel Malioboro;7.8;20679
+Hotel New Saphir Yogyakarta;7.7;37370
+favehotel Kusumanegara;7.2;21871
+Wonderloft Hostel Jogja;9.2;21071
+Gallery Prawirotaman Hotel;8.8;21068
+Eastparc Hotel Yogyakarta;9.0;82483
+Aveon Hotel Yogyakarta;7.9;82486
+Cakra Kembang Hotel;7.6;82482
+Wonderloft Hostel Jogja;9.2;82494L
+Hotel Srikandi Baru;7.1;84029G
+Sofia Boutique Residence;9.1;84029E
+Asana Grove Hotel Yogyakarta;8.3;22752
+Ndalem Suryo Saptono Guest House;9.2;21730
+apartement malioboro city bintang 3;6.8;22114
+Hotel Arjuna;8.4;21733
+Yabbiekayu Eco-Bungalows;9.3;22632
+Grand Orchid Hotel Yogyakarta;6.8;22633
+Jowo Kluthuk Heritage;5.7;22386
+Sunrise Hotel Jombor Jogja;6.5;85099C
+OYO 3787 Hotel Poncowinatan;8.4;21033
+Villa Rosseno - Evelyn Private pool and Garden;9.5;20723
+The Atrium Hotel & Resort Yogyakarta;7.9;84997B
+Chrissant Hotel;8.5;84997C
+Whiz Hotel Malioboro Yogyakarta;7.4;21094
+Harper Malioboro Yogyakarta by ASTON;8.8;20725
+Joglo Mandapa Boutique Hotel;8.6;21559
+Hotel Unisi Yogyakarta Syariah;8.2;22352
+D'Kayon Hotel Yogyakarta;8.5;21212
+Hotel Winotosastro Garden;7.5;21975
+Hotel Dafam Fortuna Seturan;7.6;21977
+Residence Duksina 2 By SHM;8.3;84991
+Fam's Homestay by FH Stay;9.6;84519A
+RedDoorz @ Plemburan Jakal 2;8.4;85183B
+Hotel Santika Premiere Jogja;8.7;85071B
+All Nite & Day Hotel Yogjakarta - Gejayan;8.9;21931
+Nextdoor Homestay;9.3;21929
+The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON;8.4;22961
+Alamanda Family Villas & Pool;9.3;22139
+Prima In Hotel Malioboro;7.9;84854
+OYO 1159 Bukit Indah Hotel & Restaurant Near RSUD Prambanan;7.8;22411
+OYO 3726 Tembok Batu Residence;7.0;82567
+ETHES Coworking - Coliving & Lounge;8.4;21672
+Hotel Dafam Fortuna Seturan;7.6;22774
+OYO 3819 Hotel Winotosastro;8.1;22771
+Duta Guest House;8.2;71270
+Platinum Adisucipto Hotel & Conference Center;8.7;22262
+Puri Artha Hotel;8.3;22637
+Griya Sentana Hotel;8.8;21934
+The Cube Hotel;7.6;21169
+Fernasya House;9.1;21166
+Grand Tjokro Yogyakarta;7.4;21175
+OYO 1309 Hotel Shafira;7.1;37444A
+Gita Benara;8.4;37444C
+Villa Anantya Private Pool;8.9;22086
+RedDoorz Plus @ Taman Siswa 2;7.9;22083
+Platinum Adisucipto Hotel & Conference Center;8.7;84971S
+Omah Qu Guesthouse Malioboro;8.4;71270
+Student Park Hotel;8.0;47580
+UMAH D'KALI private villa for 2 to 12 guests;9.3;22261
+Hotel Savitri Country;7.8;84832
+Fernasya House;9.1;22644
+Grand Tjokro Yogyakarta;7.4;21533
+RedDoorz near XT Square 2;6.5;21557
+OYO 3935 Artha Ambarukmo Exclusive;8.4;15056BL
+The Cabin Tugu Hostel;8.5;15056N
+Java Villas Boutique Hotel & Resto;9.0;22646
+RedDoorz Syariah near Malioboro Mall;6.0;22176
+Hotel Bakti;5.0;22438
+Royal Darmo Malioboro;8.0;21731
+The Sixth Room;9.5;22778
+RedDoorz near Malioboro Mall 2;7.6;22719
+Sartika Hotel Prawirotaman;8.3;21523
+Omah Teras Bata Guesthouse;9.1;D
+OYO 3945 Bale Tardian Syariah;7.9;10002
+RedDoorz Plus @ Taman Siswa 3;7.8;21912
+M Stay Guest House Jogja;8.8;21832
+Omah Manis;9.0;22411
+Omah Manis;9.0;22379
+Laxston Hotel;7.7;22381
+Madina Inn Hotel;9.1;22798
+Uniq Hotel;7.3;22726
+Delta Homestay;8.1;22926
+Alam Jogja Resort;7.7;22839
+Banana Homestay Prawirodirjan;8.1;22838
+Tara Hotel Yogyakarta;8.0;22783
+Villa Blue Steps;9.3;35004C
+Grand Kangen Hotel Urip Sumoharjo;7.6;82484
+City Stay Homestay Jogja;8.7;84755
+Agung Inn;9.1;22464
+Naima Jiwo;8.7;21324
+Metro Malioboro Living;7.9;22457
+Pojok Pas;8.7;22469
+Rejeki Homestay Malioboro;7.3;22470
+Grand Marto Hotel;8.4;22224
+RedDoorz near Terminal Wates Kulon Progo;7.2;21340
+Mitu Pugeran Homestay;8.3;22189
+The Westlake Hotel & Resort Yogyakarta;8.6;22427
+OYO 1046 Omah Pathok Near RS Ludira Husada Tama;9.1;22428
+Hotel Olympic Jogja;7.6;22424
+Kampung Lawasan Heritage Cottage;8.8;22783
+de Laxston Hotel Jogja by AZANA;7.2;22961
+Rosella Cottage - Homestay - Kitchen Yogyakarta;9.0;22960
+Palem Kipas Homestay;9.5;22663
+OYO 90033 DeHome Family;9.4;85049A
+LPP Convention Hotel Demangan;7.3;22168
+Arrayan Malioboro Syariah;8.4;22662
+favehotel Malioboro - Yogyakarta;8.3;84880
+Sky Hotel;7.9;85099C
+Bladok Hotel & Restaurant;8.4;85099B
+Trava House;9.3;79321
+The Westlake Hotel & Resort Yogyakarta;8.6;22780
+Safa Homestay;8.6;22779
+Naima Jiwo;8.7;22466
+Rabbani Family Homestay;8.9;21731
+@HOM Premiere Timoho;8.5;21754
+Grand Serela Yogyakarta by KAGUM Hotels;7.9;21755
+Ros-In Hotel;7.4;21523
+Pyrenees Jogja;7.5;21363
+RedDoorz near Sleman City Hall 2;8.0;21411
+Dipan Guest House Yogyakarta;9.2;22318
+Hotel Heryon;7.2;22464
+Hotel Heryon;7.2;22915
+Emersia Malioboro Hotel;7.9;22922
+Wisma Ary's;8.2;22969
+Villa Bougenville;9.1;22923
+Duta Boutique Villa;8.7;21115
+Peti Mas Hotel;7.9;22469
+Gowes House Yogyakarta - Malioboro;9.2;22242
+Otu Hostel By Ostic;9.4;22941
+RedDoorz near Gejayan 3;8.9;21622
+RedDoorz near Jogja City Mall 4;8.4;21791
+Villa Sunset Jogjakarta;8.6;35004C
+OYO 1473 Omah Tentrem Syariah;8.8;35004G
+The LaWang Yogya;8.7;85014B
+Allstay Hotel Yogyakarta;7.5;85014A
+Cavinton Hotel Yogyakarta by Tritama Hospitality;8.6;22193
+Taman Yuwono Heritage Malioboro;8.5;22726
+Andelis Homestay;9.0;22727
+Full House at The Omah Alun Alun Kidul;8.8;22192
+The Capsule Malioboro;8.4;22191
+RedDoorz Plus @ Jalan Damai 2;6.8;22195
+Srikandi Baru Inn;8.2;22196
+RedDoorz @ Hotel Citra Indah;6.5;22941
+Yogyakarta BnB;9.2;22960
+Pandanaran Prawirotaman Yogyakarta;7.7;22961
+University Club (UC) Hotel UGM;7.6;22962
+Omah Njonja Bed & Brasserie;8.3;22963
+RedDoorz Syariah near Taman Pelangi Monjali;8.7;22968
+Summer Season Boutique Hotel;6.4;84970S
+Homestay HD Inn;7.1;22910
+OYO 1683 Hotel Musafira Syariah;8.0;20668
+Villa Kayu Yogyakarta;9.4;85123A
+Ayaartta Hotel Malioboro;8.3;22197
+OYO Life 2348 Omah Lasaro Exclusive;7.8;22198
+Paku Mas Hotel;8.4;21533
+The LaWang Yogya;8.7;21080
+Mi Casa Es Tu Casa;7.1;21094
+The Cabin Hotel;7.9;21086
+OYO 194 Hotel Sapta Gria Near RS Bethesda;7.6;21786
+Argya Guesthouse;8.9;22654
+Nariska Suite Homestay;9.1;21485
+OYO 417 Bama Guesthouse Near RSUP Dr Sardjito;7.9;84029G
+Metro Guest House;7.3;84030E
+Manggar 3 Room - Mount View Apartment;8.1;22174
+Grand Puri Saron Yogyakarta;8.0;22969
+Rosseno Villa;9.6;85099B
+OYO 2285 Art Guest House Syariah;8.8;22556
+RedDoorz Plus near Alun Alun Selatan 2;7.9;21984
+RedDoorz Plus near Gembira Loka Zoo 2;9.0;21983
+SPOT ON 2419 Rumah Nugraha Hotel Syariah;5.2;21980
+RedDoorz Plus near Stadion Mandala Krida;7.3;21484
+RedDoorz Syariah near Taman Pelangi Monjali;8.7;22557
+premier exclusive;8.8;22553
+RedDoorz near Terminal A Adisucipto Airport;8.4;22150
+OYO 611 The Edwin Syariah;9.0;22619
+Ndalem Warungboto Homestay;8.4;21891
+Ayaartta Hotel Malioboro;8.3;21889
+Tembi Rumah Budaya;8.4;22827
+OYO 2627 Ratamya Co-living;8.0;22127
+Choerniadi Tomo Villa;9.2;22128
+ABRAKADABRA! ARTBNB;9.2;22502
+OYO 3267 Omah Suryo;8.2;84879
+Ngomah Tentrem;9.5;22338
+Unique Homestay 443;9.2;22180
+OYO 3778 Hotel Wisnugraha Syariah;7.5;21506
+OYO 804 Ndalem Maharani Residence;7.9;22633
+OYO 3778 Hotel Wisnugraha Syariah;7.5;22866
+OYO 804 Ndalem Maharani Residence;7.9;22865
+Homestay / Guest House Dekat Malioboro;9.1;22632
+Satya Graha;6.9;21485
+RedDoorz Plus @ Prawirotaman Area;6.4;22349
+OYO 3263 House 140;6.5;22558
+Hotel Indah Palace Yogyakarta;8.1;85152
+Snooze;9.5;85123A
+Airlangga Hotel;7.7;22652
+Rumah Panjaitan;8.7;22188
+Hotel Kirana;8.4;84879
+RedDoorz @ Seturan Raya;6.9;21977
+Le Krasak Boutique Hotel;7.9;84991
+Hotel Nugraha;7.4;21212
+The Mangkoro by Yuwono Hospitality;8.8;21484
+Pondok Sare;8.7;21314
+RedDoorz near UMY Yogyakarta 2;7.9;22730
+RedDoorz Syariah near Galeria Mall Yogyakarta;7.1;22727
+RedDoorz Plus Syariah near Lempuyangan Station 3;7.1;22729
+OYO 647 Irooms Residence;8.2;22726
+OYO 594 Joglo Manggisan Syariah;8.8;22114
+Posnya Seni Godod Art Gallery & Homestay;9.1;22867
+Hotel Atalie Malioboro Manage By Yuwono Hospitality;7.4;22866
+OYO 594 Joglo Manggisan Syariah;8.8;85123A
+Posnya Seni Godod Art Gallery & Homestay;9.1;71053
+Hotel Atalie Malioboro Manage By Yuwono Hospitality;7.4;84406B
+Pawon Cokelat Guesthouse;8.0;15056BL
+Wanderlust Homestay;7.4;20679
+RedDoorz Plus @ Rumah Kandjani;9.0;37370
+Villa Pohon;6.5;21871
+RedDoorz @ Swakarya Kaliurang;7.1;21071
+Jaya Homestay;8.7;21068
+Ndalem Mantrijeron Hotel;8.6;82483
+RedDoorz near Hartono Mall 3;7.1;82486
+Bedhots Homestay;9.1;82482
+OYO 999 Garuda Guesthouse;7.8;82494L
+RedDoorz Plus near STIE YKPN;8.1;84029G
+Farmhouse Homestay Jogja;8.6;84029E
+Villa Mata Air;7.1;22752
+Santai Sini Hostel;9.4;22803
+Villa Mata Air;7.1;21730
+Santai Sini Hostel;9.4;35004B
+KoolKost Female Syariah @ Gejayan Jogja;8.5;35004C
+Cabin Hotel Bhayangkara;8.1;21980
+OYO 2347 Griya Patran Near RS Queen Latifa;6.9;21844
+Laura's Backpacker 523;8.8;22468
+Jiwanta Homestay;9.3;22637
+La Javanaise Home Stay Malioboro;7.3;22752
+RedDoorz near Pojok Beteng Yogyakarta;7.8;48185
+Home Addicts Hostel;8.7;22632
+OYO 2041 Griya Aneka;6.9;22866
+RedDoorz Syariah near Gembira Loka Zoo;8.1;22865
+Aloha Hotel Yogyakarta;9.3;21232
+Griya Asih;9.3;22064
+RedDoorz Plus @ Pogung Raya;7.7;22449
+ArFe Room Apartemen Taman Melati Yogyakarta Sinduadi;7.2;22114
+Malioboro Garden Hotel;6.8;22835
+nDalem Natan Royal Heritage;7.5;22112
+Simply Stay Homestay Jogja;7.4;21479
+RedDoorz Plus near Jogja Kembali Monument;6.3;22111
+RedDoorz near Candi Ratu Boko;6.5;22632
+RedDoorz near Universitas Muhammadiyah Yogyakarta;7.8;22633
+The Soemarsono Hotel;6.6;22969
+RedDoorz @ Jalan Palagan;6.6;22110
+Nugraha Residence;7.9;22098
+OYO 2008 Sellinas Family ResidenceÂ Near RSUP Dr Sardjito;7.7;22100
+De Hostel Yogyakarta;8.9;22766
+Rumah Mba Ayu;9.1;22451
+Grand Omah Sastro;7.9;22549
+Amaya Suites Hotel;6.4;84744
+Hotel Graha Kinasih Kotabaru;9.0;85049E
+RedDoorz near AMIKOM Yogyakarta 2;8.7;21328
+Andrea Hotel;8.2;22961
+Nueve Malioboro Hotel Yogyakarta;7.3;17091A
+Vivo Apartment Pool Side by We Stay;8.9;22473
+RedDoorz @ Sagan Jogja 2;8.2;84509A
+Imperial Villa;9.5;84510A
+Griya Langen Guesthouse;8.9;22767
+Ndalem Timoho;9.4;22768
+Omah Wienna;9.2;21463
+Villa Mak Cik;9.5;21464
+Hotel Amalia Malioboro;7.8;20820
+RedDoorz @ Jalan Wonosari KM.9;7.2;85150
+Hotel BIFA;6.9;22117
+OYO 524 Makuta Hotel Near RSUD Kota Yogyakarta;7.8;21169
+Front One Cabin Malioboro Jogja;8.5;48129
+Green Leaf Guest House;6.8;82580
+RedDoorz Syariah near Taman Pelangi Jogja 2;8.5;82578
+RedDoorz near Jogja National Museum;8.3;82581
+Urban Fendi's Tirtodipuran;9.7;22413
+RedDoorz Plus @ Hotel Star 88;8.5;21907
+RedDoorz near Hartono Mall;7.5;22441
+OYO 857 Pakuncen Malioboro Syariah;8.2;21122
+Griya Suryo Wijilan;7.9;22851
+GAYENG Homestay - Only for LOCAL Tourist NOT FOR FOREIGN Tourist;7.8;84991
+OYO 2684 Wisma Orange;7.4;22810
+Hotel Tulips;7.4;22809
+Cabin Hotel Sutomo;8.0;22435
+Hotel Galuh Anindita;7.8;20966
+Malioboro Place;8.3;20963
+Riverside Homestay Jogja;7.8;20961
+SUNKISS VILLA by Yogya Tropicana;9.5;22068
+OYO 1855 Elise Exclusive Residence;5.5;21743
+House of Belva;8.8;21744
+House of Joy;9.4;84709B
+Sante Commune Yogyakarta;9.2;21592
+Tegal Panggung Guest House;8.5;21587
+RedDoorz near Adisucipto Airport 3;6.6;20992
+Rumah Ukhi;9.3;22662
+Indraloka Heritage Homestay;7.3;85123A
+RedDoorz near Hartono Mall;7.5;22804
+Ndalem Malioboro;9.0;82483
+RedDoorz @ Jalan Ringroad Selatan;7.9;20749
+Ada Waktu Bed & Breakfast;9.3;20725
+OstiC House;9.2;22382
+Ndalem Suratin Guesthouse;8.4;20726
+BeOne House Jogja;8.3;22384
+RedDoorz Syariah near UIN Yogyakarta;7.5;22467
+RedDoorz Plus near Alun Alun Selatan;7.4;84625C
+Imogen BnB;8.3;84625A
+Prayogo Lama Prawirotaman;7.4;21108
+OYO 759 Hotel Dewi Sri;7.3;22848
+RedDoorz near XT Square Yogyakarta;7.6;21033
+OYO 465 Alam Citra Bed & Breakfast;8.8;47570B
+Ndalem Diajeng;8.5;84030E
+RedDoorz near Terminal Condong Catur 2;8.5;22428
+Canary Guesthouse;8.3;22502
+RedDoorz Plus @ Demangan Gejayan;8.1;22086
+Firdaus Guest House;8.6;22910
+OYO 3864 Babaran 71;8.1;22837
+SPOT ON 2881 Nabila Homestay;3.8;22867
+RedDoorz Plus @ Affandi Gejayan;6.8;POST
+House of Belva;8.8;22297
+Krakatau Homestay Timoho;6.6;22771
+So Homestay 21;9.6;22772
+RedDoorz near Graha Saba UGM;8.6;22773
+OYO 572 Omah Gedongkuning Syariah Homestay;8.4;22805
+OYO 572 Omah Gedongkuning Syariah Homestay;8.4;22469
+RedDoorz Plus @ Terban Residence;9.0;22197
+Yogyakarta Backpacker 1 Ngampilan;7.6;21125
+Surya Darma Homestay;8.6;21126
+OYO 1643 Grand Monica;5.9;85049C
+Hotel Mataram 2 Malioboro;6.3;85049D
+Nadira Homestay;9.1;85049E
+nDalem Eyang Dwijo;9.0;85049G
+OYO 206 Hotel Candra Kirana Near RSUD Kota Yogyakarta;8.7;21061
+Omah Sumur;7.0;21063
+KoolKost near Hartono Mall Yogyakarta;8.5;21062
+RedDoorz Plus near Adisucipto Airport 2;7.6;84380
+OYO 2669 Crown Residence;8.1;84378
+Naura Guest House;9.4;22964
+RedDoorz near Jogja City Mall;7.4;21213
+RedDoorz Plus @ Jalan Parangtritis 2;8.1;22417
+OYO 1150 Omah Ladrang Near RSUP Dr Sardjito;8.4;21212
+The Victoria Hotel Yogyakarta;8.0;84992
+Omah Gerjen 29 by Bukit Vista;9.0;21975
+Surokarsan Residence;8.2;22383
+Fuji Villa;6.6;20728
+SPOT ON 2857 Hotel Pelangi;6.5;20727
+RedDoorz @ Turangga Sari;8.9;22296
+Sela Stay;9.6;20914
+LAYA GUEST HOUSE;8.7;85123A
+Griya Amarta;8.5;71053
+RedDoorz near Jogja Expo Center 2;6.0;84406B
+RedDoorz Syariah near Puro Pakualaman Palace;8.0;20679
+Good Karma Yogyakarta;9.2;37370
+RedDoorz @ Jakal Atas KM 10;8.6;21871
+Hotel Bugis Asri;8.1;21071
+RedDoorz Syariah near Titik Nol Yogyakarta;7.4;21068
+Surfrider Yogyakarta;9.7;82483
+Hotel Limaran 1;6.9;82486
+Grand Mansion Homestay Jogja;7.1;82482
+RedDoorz @ Omah Kayu Homestay;8.4;82494L
+OYO 3707 Halona Guesthouse;7.9;84029G
+OYO 244 Griya Cemara Homestay;8.9;84029E
+OYO 1846 The Ecovillage;6.7;22752
+Yez Yez Yez All Good Hostel;8.8;22803
+RedDoorz Plus @ Timoho;7.4;21730
+Manggolo Homestay Syariah;7.5;22632
+OYO 2268 Tim-tim Homestay;8.3;22633
+OYO 261 Sasono Putro Residence;8.5;22537
+Omah Sastro 2;8.3;22533
+OYO 347 Bayang Brothers Guest House;9.6;20982
+Prambanan Guesthouse;8.7;21832
+Coliving Jogja Sweet Home Kost Lengkap di Jogjakarta;10.0;21915
+RedDoorz near XT Square 3;7.3;21914
+RedDoorz plus @ Tegal Panggung;7.1;21544
+RedDoorz near RS Sarjito Yogyakarta 2;8.7;22813
+OYO 3083 D Kost 3 Syariah;8.3;22114
+Jasmine Heritage Homestay;7.2;84029E
+Monica Hotel;6.8;21479
+Grage Jogja Malioboro;7.9;22964
+OYO 195 Stay @H Residence;8.4;84375
+Mone House Jogja;8.4;22418
+Arjuna Garden Homestay;8.5;22178
+Bunk Bed and Breakfast;8.8;84970L
+Surokarsan 9 Yogyakarta;9.0;21733
+RedDoorz @ Jalan Parangtritis;7.9;22465
+The Kresna Hotel;8.9;84949
+D'Talent Hotel;8.7;20685
+nDalem Joglo Krawitan;9.4;48194
+Batik Trinidar Homestay;8.3;22488
+With Friends Homestay Jogja;7.7;22219
+Hotel Grand Rosela;7.9;84879
+The Patio Yogya;9.3;21754
+Hotel Wisma Sakinah;7.8;21755
+RedDoorz near Pascasarjana UGM 2;7.0;22766
+OYO 1118 Artomoro Family Guesthouse Near RS Ludira Husada Tama;8.1;22610
+Watu Lumbung Culture Resort;6.3;22716
+Selaras Inn Syariah;6.0;22706
+OYO 2118 Fh Stay;8.7;22371
+OYO 1962 Anugerah Wisata Hotel;6.4;85014B
+rumah566;9.2;85014A
+RHouse Homestay;8.1;84997B
+RedDoorz near Ambarukmo Yogyakarta 2;3.7;21212
+OYO 441 Namira Hotel Syariah;7.6;21210
+RedDoorz near Ambarukmo Yogyakarta;8.8;22914
+RedDoorz Plus near Taman Sari;8.0;22553
+RedDoorz Hostel near Terminal Condongcatur Jogja;7.6;16237
+EDU Hostel;7.3;22714
+Ndalem Nuriyyat Villa  Spa & Skin Care;;22812
+ViaVia Guesthouse;8.7;84347
+Hotel Grand Rosela;7.9;21587
+Losmanos Hostel;8.7;22736
+Arte Hotel Yogyakarta;7.9;22492
+OYO 3144 Ndalem Amandari;7.6;22620
+RedDoorz near UGM 3;7.2;22619
+Villa Alicia;8.5;21705
+Pondok Sare;9.3;90199C
+Omah Kertonegoro;8.8;21479
+Apartement Malioboro City Superblock;7.9;22111
+Puri Langenarjan Guest House;7.9;22785
+Manggo Home;5.9;22975
+Omah awang Homestay;8.1;22972
+Wayang BnB;9.3;22866
+OYO 550 Kebon Krapyak Cottage Syariah;8.1;22568
+Rumah 3 Kamar Full Ac Dekat Hartono Mall dan Kampus UGM;6.3;85116
+RedDoorz near Rumah Sakit Wirosaban;7.7;22664
+Hotel Safara Yogyakarta;7.8;21609
+Filistay Homestay;9.8;21866
+DOM Hotel Jogja;7.8;20669
+Lia Homestay;8.3;90129F
+OYO 2224 Lousiana House Near RS Condong Catur;9.2;90210B
+RedDoorz near UGM 3;7.2;90199C
+OYO 3468 Ndalem Gusti Ayu;9.3;21955
+Hotel Sala;7.9;72802C
+Blue Garden Yogyakarta;8.3;22109
+RedDoorz Syariah @ Wisma Arya 2;8.1;85116
+Antasena;9.0;22531
+JJ House Gejayan;6.9;21811
+Griya Lowanu Yogyakarta;7.3;22183
+NOMORE Gallery and Guesthouse;9.5;21678
+OYO 1241 Eirini Family Residence;7.0;21676
+ARUNA Java guesthouse;8.5;84625A
+Omah Pugeran Jogja;8.8;84625C
+The Journey Hotel;8.1;21931
+The Sleepingroom Hostel;8.6;85169B
+The Sleepingroom Hostel;8.6;16238
+Hinggil Homestay Syariah;7.6;20668
+OYO 1162 ZE room;8.1;84906
+RedDoorz near Malioboro Tugu Station Jogja 2;8.4;21867
+Griya Mulya;8.5;22075
+The Sawah Home Hotel;9.6;21866
+RedDoorz Plus near Taman Sari 2;6.6;21326
+RedDoorz Plus near Lempuyangan Station 4;6.4;21065
+Shakilla Homestay&Kost Muslimah;8.4;22074
+Cemara Homestay;8.8;22900
+Silas Garden;9.3;20713
+Sabana Homestay;8.8;20966
+RedDoorz near Tugu Yogyakarta;7.0;21116
+TONITEL Hotel Malioboro Yogyakarta;7.4;90199C
+OYO 634 Elga Sastro Inn Syariah;8.1;22633
+OYO 1226 Al Abror Residence;7.8;22866
+OYO 1369 Griya Damai Syariah;8.4;22198
+RedDoorz Syariah @ Babadan Baru Jakal;9.0;21824
+Grapyak Homestay Syariah;7.9;21823
+Kinasih Hotel Yogyakarta;6.2;22153
+Bilik Bamboo Hostel;9.4;22197
+Hotel Supalana;7.9;85099B
+RedDoorz near Rumah Sakit Condong Catur;8.1;85099F
+Tsabit Guest house;8.5;20717
+OYO 1303 Golden Inn 2;7.8;20723
+Bale Ayu Homestay;8.0;22900
+Omah Prapen Homestay;8.9;21980
+Raintree Boutique Villa & Gallery;8.6;22111
+Setia Backpacker;8.2;22112
+Kamala House;9.6;20728
+RedDoorz near Galeria Mall 2;7.7;22382
+Rumah Sawah;9.4;22326
+Serene Home of the Heart;8.0;22662
+OYO 1542 Yessy Mansion;7.6;22383
+RedDoorz Hostel near Adisucipto Airport Yogyakarta;8.4;20727
+Catleya Guesthouse;6.4;22328
+OYO 895 Mahameru Residence Near RS Condong Catur;8.6;22327
+OYO 2454 Wanawiyata Residence;6.4;22630
+Rumah Kayen Family Homestay;8.4;22629
+Griya Tugu Jogja;9.2;21245
+OYO 2432 Malioboro Upy Best Prime;7.4;21244
+OYO 2061 Rizki Dhira Guest House Syariah;7.5;21242
+Hotel Nagari Malioboro;7.8;21243
+OYO 392 Hotel Mawar Saron Near RS Bethesda;7.6;22327
+Hana homestay Yogyakarta;8.7;22273
+RedDoorz @ Nologaten Ambarukmo;6.6;22940
+Cotton House Monjali;8.8;22652
+Hotel Popi - Pondok Pisang;5.6;22759
+Sagan Huis Hotel;8.9;21880
+RedDoorz Plus near UPN Jogjakarta 2;6.1;21738
+The Wayang Homestay;8.7;22077
+Reddoorz Syariah near Wijilan Yogyakarta;7.6;85049E
+Puri Minggiran Guest House;8.7;22961
+New Chez Laelik Homestay Jogja;7.8;21448
+RedDoorz @ Rejowinangun Kotagede 2;6.6;22837
+OYO 586 Hotel Wijaya Near RSUD Prambanan;7.3;22749
+Wongso hostel;8.6;22940
+D Ajenk Boutique Guest House;8.9;22749
+Griya Jetis Tugu;9.2;22077
+OYO 1626 Alena Residence Near RS Ludira Husada Tama;7.9;21738
+OYO 931 Dara Dewi Residence;8.3;85049E
+RedDoorz near Mall Ambarukmo Yogyakarta;6.5;22243
+LYNN Hotel by Horison;7.8;22141
+Omah Sastro;7.5;22144
+OYO 1242 Penginapan Rb Syariah;8.3;22243
+RedDoorz near Kranggan Tugu Jogja;6.3;22077
+Penginapan Prima;5.8;21448
+Bi.es Homestay;4.7;22759
+Pondok Ijo Guesthouse & Restaurant;8.7;22242
+OYO 1277 Pondok Damai Syariah;5.3;85049E
+OYO 583 Royal Gejayan Homestay;8.3;21731
+Pendowo Huis Guest House;8.3;22243
+OYO 426 Hotel Gading Resto;6.8;21739
+Hoz Bed & Breakfast;8.5;21738
+RedDoorz near Terminal Condong Catur;7.2;22271
+SPOT ON 2107 Ijo Pupus Syariah Residence;7.2;22273
+Omah Konco Yogyakarta;8.6;22274
+Banana Homestay;8.5;22749
+S5 Guest House Yogyakarta;9.2;22751
+Kotagede Heritage Homestay;8.0;21034
+OYO LIFE 2339 Jennaira Syariah;7.8;22273
+SPOT ON 2754 Miyagi Guesthouse;7.0;22568
+Grass Root Homestay;9.0;22141
+OYO 2469 Cashlez Homestay;6.9;22144
+Homestay Dipo 71;6.2;22570
+Kembar Guesthouse;7.7;22569
+Gado-gado BnB;9.3;21448
+Mamagayo inn;8.1;22086
+D'Angkring Wisma Sarjana;4.7;22569
+RedDoorz near Universitas Islam Indonesia;8.8;21448
+Mas Gun Guest House;8.0;22968
+OYO 1593 Pondok Garini Syariah;8.4;22902
+JJ House Wahid Hasyim;7.5;21448
+Pendopo Andari Homestay;8.6;22902
+OYO 1419 Rhona Guest House Syariah Near RSUD Kota Yogyakarta;8.3;21710
+Omah Ambarukmo;6.3;21708
+OYO 3788 Bellinn Kost Exclusive;4.3;21711
+MashBrow Hostel;7.9;22179
+Losmen Setia Kawan;7.3;22197
+OYO 1073 Pogung W1 Exclusive;7.2;22900
+Kona Backpacker Rooms;7.1;21706
+SPOT ON 2358 Aster Homestay;6.4;22468
+One More Night Hostel;9.9;20725
+OYO 810 Idola Residence;7.8;85184C
+OYO 2105 Hotel Sanca Inn;7.1;21708
+OYO 1366 Kayoman Family Homestay Near RSI Hidayatullah;6.4;22900
+OYO 1072 Kampung Condro Wulan Residence;8.7;21706
+OYO 1238 Hotel Perdana Near RS Bethesda;7.0;22988
+OYO 1680 Dahlia Guesthouse Near RSI Hidayatullah;6.7;85184C
+Janti Transit Room Syariah;6.5;20750
+Tasneem Hotel & Convention Yogyakarta;6.8;22139
+Rifka Annisa Guesthouse Syariah;8.8;22952
+Herry Home Stay_Jogja;9.3;22910
+Odessa 1 - Ten minutes to Malioboro;8.9;22739
+Omah Pelem Yogya;9.3;22738
+ndalem eRPe;9.1;22736
+Joglo Sawit Sari;9.1;22909
+Yogyakarta Tropicana Villa;8.8;35591T
+Agrapana Guesthouse 2;8.7;22186
+Puri Chorus Boutique Hotel;5.6;22695
+Wilujeng Guest House;8.3;22470
+Dyah Suminar House;9.6;22580
+Awana Town House AT 37;7.9;22469
+Sumringah Homestay;9.2;22147
+Omahkoe Jongke;8.8;22130
+Summergrass B&B;9.1;21791
+Jogja Backpacker Home;8.9;22694
+OYO 1195 The Doctor's Guest House Syariah;9.5;21790
+OYO 408 Graha Vege Jawi Syariah;9.1;22149
+Aty Noor Homestay;7.7;22900
+Griya Bisma Homestay;9.4;22961
+Losmen Alden;5.9;22321
+Kampoeng Joglo Boutique Hotel;8.8;22594
+BB Homestay;7.7;22593
+Tiga Dua Homestay;8.7;22595
+Kali Kala Yogyakarta;9.5;21986
+Ndalem Sorogenen Guesthouse;6.5;22750
+Reddoorz Plus Syariah @ Monginsidi Guest House;7.9;22616
+E Kamar Jogja;6.6;22775
+Glory Homestay;9.0;22899
+OYO 1196 Hotel Pura Puspa Rosa;7.4;22367
+Hotel Puspita;6.3;22942
+La Luna Resort Yogyakarta;9.2;22941
+Embe Joglo Homestay;9.6;22086
+OYO 722 Uno Residence;9.0;22940
